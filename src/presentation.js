@@ -101,7 +101,7 @@ export default class Presentation extends React.Component {
               Sign up on the Hacktoberfest{" "}
               <a href="https://hacktoberfest.digitalocean.com/">website.</a>
             </ListItem>
-            <ListItem>Make 5 Contributions to OSS before 10/31</ListItem>
+            <ListItem>Make 4 Contributions to OSS before 10/31</ListItem>
             <ListItem>Get a free shirt.</ListItem>
           </List>
         </Slide>
