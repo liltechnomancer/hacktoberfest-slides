@@ -183,6 +183,7 @@ export default class Presentation extends React.Component {
             Thanks to our sponsors!
           </Heading>
           <List textColor="primary">
+            <ListItem>Netlify</ListItem>
             <ListItem>Gatsby JS</ListItem>
             <ListItem>Co+Hoots Phoenix</ListItem>
             <ListItem>HalfStack Conf</ListItem>
